@@ -1,0 +1,8 @@
+{
+  "cpu_threshold": 80,
+  "memory_threshold": 80,
+  "disk_threshold": 10,
+  "cooldown_minutes": 15,
+  "notify_method": "dialog",
+  "notify_timeout_seconds": 5
+}
